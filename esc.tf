@@ -1,5 +1,5 @@
 locals {
-  mastodon_version = "v4.1.5"
+  mastodon_version = "v4.1.6"
 }
 
 resource "aws_security_group" "web" {
